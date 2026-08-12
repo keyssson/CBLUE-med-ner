@@ -1,0 +1,43 @@
+[
+  {
+    "text": "患者3天前无明显诱因出现咳嗽、咳痰，伴咽部不适，无胸闷气促。曾在外院就诊，予以对症治疗后症状稍缓解。发病以来精神、饮食、睡眠尚可，大小便正常。",
+    "entities": [
+      {
+        "start_idx": 12,
+        "end_idx": 14,
+        "type": "sym",
+        "entity": "咳嗽"
+      },
+      {
+        "start_idx": 15,
+        "end_idx": 17,
+        "type": "sym",
+        "entity": "咳痰"
+      },
+      {
+        "start_idx": 19,
+        "end_idx": 23,
+        "type": "sym",
+        "entity": "咽部不适"
+      },
+      {
+        "start_idx": 25,
+        "end_idx": 27,
+        "type": "sym",
+        "entity": "胸闷"
+      },
+      {
+        "start_idx": 27,
+        "end_idx": 29,
+        "type": "sym",
+        "entity": "气促"
+      },
+      {
+        "start_idx": 67,
+        "end_idx": 68,
+        "type": "sym",
+        "entity": "便"
+      }
+    ]
+  }
+]
